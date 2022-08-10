@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372429578528",
+    "firebase_url": "https://airpollution-8fa78-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "airpollution-8fa78",
+    "storage_bucket": "airpollution-8fa78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372429578528:android:68d1915fafc23866617745",
+        "android_client_info": {
+          "package_name": "com.example.air_pollution_quality_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372429578528-ag3f8qvsqaoaegrgcdfeu176iqll8v9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARyIbfNvuH-v9IA3C-wL5oQ7KF_tjImFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372429578528-ag3f8qvsqaoaegrgcdfeu176iqll8v9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
