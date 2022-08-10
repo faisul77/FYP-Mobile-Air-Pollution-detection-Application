@@ -1,6 +1,6 @@
 # air_pollution_quality_monitor
 
-A new Flutter project.
+This is the source code for my FYP
 
 ## Getting Started
 
